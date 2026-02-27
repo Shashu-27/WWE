@@ -1,0 +1,56 @@
+﻿Id,Name,Era,Piclink,weight,Wunit,height,Hunit,real Name,Hometown,Debut year,Age,Faction,Status
+WWE0001,Undertaker,Legend,Done,299,lbs,208,CM,Mark William Calway,"Houston , Texas",1987,60,HOF,Alive
+WWE0002,Stone Cold Steve Austin,Legend,Done,252,lbs,188,CM,Steven Austin,"Austin , Texas",1990,61,HOF,Alive
+WWE0003,Shawn Michaels,Legend,Done,235,lbs,185,CM,Micheal Shawn Hickenbottom,"San Antonio , Texas",1984,60,HOF,Alive
+WWE0004,Triple H,Legend,Done,255,lbs,193,CM,Paul Micheal Levesque,"Greenwich , Connecticut",1994,56,HOF,Alive
+WWE0005,Ric Flair,Legend,Done,243,lbs,185,CM,Richard Morgan Fliehr,"Memphis, Tennessee",1973,77,HOF,Alive
+WWE0006,Hulk Hogan,Legend,Done,302,lbs,201,CM,Terry Gene Bollea,"Augusta , Georgia",1977,71,HOF,Dead
+WWE0007,Ultimate Warrior,Legend,Done,280,lbs,188,CM,James Brian Hellwig,"Crawfordsville , Indiana",1985,54,HOF,Dead
+WWE0008,Andre the Giant,Legend,Done,520,lbs,224,CM,Andre Rene Roussimoff,"Grenoble , France",1969,46,HOF,Dead
+WWE0009,Bret Hart,Legend,Done,235,lbs,183,CM,Bret Surgeant Hart,"Alberta, Canada",1979,68,HOF,Dead
+WWE0010,The Rock,Legend,Done,260,lbs,196,CM,Dwayne Douglas Johnson,"Hayward, California",1996,53,NA,Alive
+WWE0011,Kane,Legend,Done,323,lbs,203,CM,Glenn Thomas Jacobs,"Madrid, Spain",1993,58,HOF,Alive
+WWE0012,Goldberg,Legend,Done,285,lbs,193,CM,William Scott Goldberg,"Tulsa, Oklahoma",1997,59,HOF,Alive
+WWE0013,Randy Savage,Legend,Done,237,lbs,188,CM,Randell Mario Poffo,"Columbus, Ohio",1974,58,HOF,Dead
+WWE0014,Mick Foley,Legend,Done,287,lbs,188,CM,Michael Francis Foley Sr.,"Bloomington, Indiana",1988,60,HOF,Alive
+WWE0015,Booker T,Legend,Done,256,lbs,191,CM,Robert Booker Tio Huffman,"Houston , Texas",1992,60,HOF,Alive
+WWE0016,Sting,Legend,Done,250,lbs,188,CM,Steve James Borden Sr.,"Omaha, Nebraska",1985,66,HOF,Alive
+WWE0017,John Cena,Ruthless Aggression,Done,251,lbs,185,CM,John Felix Anthony Sr Jr,"West Newbury, Massachusetts",2001,48,NA,Alive
+WWE0018,Brock Lesnar,Ruthless Aggression,Done,286,lbs,191,CM,Brock Edward Lesnar,"Webster, South Dakota",2000,48,RAW,Alive
+WWE0019,Kurt Angle,Ruthless Aggression,Done,237,lbs,183,CM,Kurt Steven Angle,"Pittsburgh, Pennsylvania",1999,57,NA,Alive
+WWE0020,Randy Orton,Ruthless Aggression,Done,275,lbs,196,CM,Randy Keith Orton,"Knoxville, Tennessee",2000,45,SmackDown,Alive
+WWE0021,Batista,Ruthless Aggression,Done,278,lbs,193,CM,David Michael Bautista Jr.,"Alington, Virginia",2000,57,NA,Alive
+WWE0022,Rob Van Dam,Ruthless Aggression,Done,235,lbs,170,CM,Robert Alex Szatkowski,"Battle Creek, Michigan",1991,55,NA,Alive
+WWE0023,Rey Mysterio,Ruthless Aggression,Done,175,lbs,160,CM,Oscar Gutierrez Rubio,"Chula Vista, California",1994,51,RAW,Alive
+WWE0024,Eddie Guerrero,Ruthless Aggression,Done,228,lbs,173,CM,Eduardo Gory Guerrero Llanes,"El Paso, Texas",1995,38,NA,Dead
+WWE0025,Vince McMahon,Ruthless Aggression,Done,248,lbs,188,CM,Vincent Kennedy McMahon,"Pinehurtst, North Carolina",1982,80,NA,Alive
+WWE0026,Shane McMahon,Ruthless Aggression,Done,230,lbs,191,CM,Shane Brandon McMahon,"Greenwich , Connecticut",1988,56,NA,Alive
+WWE0027,Edge,Ruthless Aggression,Done,241,lbs,196,CM,Adam Joseph Copeland,"Orangeville, Ontario, Canad",1996,52,AEW,Alive
+WWE0028,Christian,Ruthless Aggression,Done,212,lbs,185,CM,William Jason reso,"Toronto, Ontario, Canada",1998,52,AEW,Alive
+WWE0029,Chris Jericho,Ruthless Aggression,Done,226,lbs,183,CM,Christopher Keith Irvine,"Manhasset, New York",1991,55,AEW,Alive
+WWE0030,Matt Hardy,Ruthless Aggression,Done,236,lbs,185,CM,Matthew Moore Hardy,"Cameron, North Carolina",1994,51,TNA,Alive
+WWE0031,Jeff Hardy,Ruthless Aggression,Done,225,lbs,185,CM,Jeffrey Nero Hardy,"Cameron, North Carolina",1995,48,TNA,Alive
+WWE0032,Mark Henry,Ruthless Aggression,Done,360,lbs,193,CM,Mark Jerrold Henry,"Silsbee, Texas",1996,54,HOF,Alive
+WWE0033,Bobby Lashley,Ruthless Aggression,Done,273,lbs,191,CM,Franklin Roberto Lashley,"Junction City, Kansas",2005,49,AEW,Alive
+WWE0034,Roman Reigns,Modern Era,Done,265,lbs,191,CM,Leati Joseph Anoa'i,"Pensacola, Florida",2010,40,RAW,Alive
+WWE0035,Seth Rollins,Modern Era,Done,217,lbs,185,CM,Colby Daniel Lopez,"Buffalo, Iowa",2006,39,RAW,Alive
+WWE0036,Dean Ambrose,Modern Era,Done,225,lbs,193,CM,Jonathan David Good,"Cincinatti, Ohio",2006,40,AEW,Alive
+WWE0037,CM Punk,Modern Era,Done,218,lbs,188,CM,Phillip Jack Brooks,"Chicago, Illinois",2003,47,RAW,Alive
+WWE0038,AJ Styles,Modern Era,Done,218,lbs,180,CM,Allen Neal Jones,"Jacksonville, North Carolina",2001,48,RAW,Alive
+WWE0039,Sheamus,Modern Era,Done,267,lbs,193,CM,Stephen Farrelly,"Cabra, Dublin, Ireland",2007,48,RAW,Alive
+WWE0040,Daniel Bryan,Modern Era,Done,210,lbs,178,CM,Bryan Llyod Danielson,"Aberden, Washington",2010,44,AEW,Alive
+WWE0041,Dolph Ziggler,Modern Era,Done,218,lbs,183,CM,Nicholas Theodore Nemeth,"Cleveland, Ohio",2004,45,TNA,Alive
+WWE0042,Bray Wyatt,Modern Era,Done,285,lbs,191,CM,Windham Lawrence Rotunda,"Brooksville, Florida",2010,36,SmackDown,Dead
+WWE0043,Brawn Strauman,Modern Era,Done,335,lbs,203,CM,Adam Joseph Scherr,"Sherrills Ford, North Carolina",2014,42,SmackDown,Alive
+WWE0044,Cody Rhodes,Modern Era,Done,220,lbs,188,CM,Cody Garrett Runnels Rhodes,"Atlanta, Georgia",2006,40,SmackDown,Alive
+WWE0045,The Miz,Modern Era,Done,220,lbs,188,CM,Michael Gregory Mizanin,"Hollywood, California ",2005,45,SmackDown,Alive
+WWE0046,Kofi Kingston,Modern Era,Done,212,lbs,183,CM,Kofi Nahaje Sarkodie-Mensah,"Kumasi, Ghana",2006,44,RAW,Alive
+WWE0047,Drew Mcintyre,Modern Era,Done,265,lbs,196,CM,Andrew McLean Galloway iv,"Ayr, Scotland",2006,40,SmackDown,Alive
+WWE0048,Rusev,Modern Era,Done,304,lbs,183,CM,Miroslav Barnyashev,"Plovdiv, Bulgaria",2011,40,RAW,Alive
+WWE0049,Alberto Del Rio,Modern Era,Done,239,lbs,196,CM,Jose Alberto Rodriguez Chucuan,"San Luis Potosi, Mexico",2000,48,INDY,Alive
+WWE0050,Gunther,Modern Era,Done,250,lbs,193,CM,Walter Hahn,"Vienna, Austria",2007,38,RAW,Alive
+WWE0051,Kevin Owen,Modern Era,Done,266,lbs,183,CM,Kevin Yanick Steen,"Saint-Jean-sur-Richelieu, Quebec, Canada",2005,41,SmackDown,Alive
+WWE0052,Sami Zayn,Modern Era,Done,212,lbs,185,CM,Rami Sebei,"Laval, Quebec, Canada",2004,41,SmackDown,Alive
+WWE0053,Cesaro,Modern Era,Done,232,,196,,Claudio Castagnoli,"Lucerne, Switzerland",2004,45,AEW,Alive
+WWE0054,R-Truth,Modern Era,Done,220,lbs,188,CM,Ronnie Aaron Killings,"Williamsburg, South Carolina",2000,54,SmackDown,Alive
+WWE0055,Finn Balor,Modern Era,Done,190,,180,,Fergal Devitt,"Bray, County Wicklow, Ireland",2003,44,RAW,Alive
